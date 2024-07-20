@@ -1,0 +1,16 @@
+1. Create a New Database
+-Create the Database:
+-Click on the "Databases" tab.
+-Enter a name for your new database (e.g., my_database) and click "Create".
+
+2. Import the Database File
+Select the Database:
+-Click on the database you just created from the left sidebar.
+Import the SQL File:
+-Click on the "Import" tab.
+-Click on the "Choose File" button and select your SQL file.
+-Make sure the format is set to SQL.
+-Click on the "Go" button to start the import process.
+
+3. Run the Project
+-Open your web browser and go to http://localhost/Careerconnect.
